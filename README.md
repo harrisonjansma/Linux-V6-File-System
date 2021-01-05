@@ -1,4 +1,4 @@
-# Linux-V6-File-System
+# Unix-V6-File-System
 
 A custom C implementation of the Unix Version 6 file system.
 
